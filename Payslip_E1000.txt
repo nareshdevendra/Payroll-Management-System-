@@ -1,0 +1,21 @@
+
+===== EMPLOYEE PAYSLIP =====
+
+Employee ID: E1000
+Name: Employee_0
+Department: Sales
+
+----- Earnings -----
+Basic Salary: 72251
+HRA: 17971
+Other Allowance: 2262
+
+----- Deductions -----
+Tax: 9248.4
+Other Deductions: 1658
+
+----- Summary -----
+Gross Salary: 92484.0
+Net Salary: 81577.6
+
+============================
